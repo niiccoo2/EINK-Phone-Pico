@@ -1,0 +1,326 @@
+{
+  "conversations": {
+    "+16174025606": {
+      "contact_name": "+16174025606",
+      "last_message_time": "2025-05-24T22:12:20.954288",
+      "unread_count": 4,
+      "messages": [
+        {
+          "id": "msg_8682d611",
+          "content": "Is this thing working?",
+          "timestamp": "2025-05-22T13:59:00.790572",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_6655fd2e",
+          "content": "Hello World!",
+          "timestamp": "2025-05-23T15:15:29.134415",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_a0a30a40",
+          "content": "LOL",
+          "timestamp": "2025-05-24T22:07:57.309106",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_4968afe7",
+          "content": "hello?",
+          "timestamp": "2025-05-24T22:12:20.954503",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    },
+    "+16172060139": {
+      "contact_name": "Nico Smith",
+      "last_message_time": "2025-05-26T08:47:24.469062",
+      "unread_count": 11,
+      "messages": [
+        {
+          "id": "msg_f28ddce0",
+          "content": "Hello?",
+          "timestamp": "2025-05-23T17:53:03.210950",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_8a803f54",
+          "content": "Yo, how are you ",
+          "timestamp": "2025-05-23T17:53:03.805152",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_f5eebfac",
+          "content": "Ok",
+          "timestamp": "2025-05-23T17:55:28.495829",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_28b78e16",
+          "content": "This is a test!",
+          "timestamp": "2025-05-24T11:46:41.663374",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_72312f9c",
+          "content": "This is sooo cool",
+          "timestamp": "2025-05-24T13:43:02.282894",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_32c0ae48",
+          "content": "Will this update?",
+          "timestamp": "2025-05-24T13:51:03.585850",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_d486d562",
+          "content": "It updated! I am so happy!",
+          "timestamp": "2025-05-24T13:53:20.487819",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_5e90bb36",
+          "content": "YO ARE YOU THERE?",
+          "timestamp": "2025-05-25T19:49:43.096130",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_f3d723bd",
+          "content": "Sending text",
+          "timestamp": "2025-05-25T23:11:01.533982",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_8299e2da",
+          "content": "test",
+          "timestamp": "2025-05-25T23:12:16.302269",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_ce6b3fca",
+          "content": "OMG",
+          "timestamp": "2025-05-25T23:12:24.476928",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_064fc59d",
+          "content": "test",
+          "timestamp": "2025-05-25T23:27:42.347136",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_a36f1f04",
+          "content": "Wow it works",
+          "timestamp": "2025-05-25T23:28:02.425910",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_72a1588f",
+          "content": "hello world",
+          "timestamp": "2025-05-25T23:28:40.585069",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_1ab755c0",
+          "content": "wow",
+          "timestamp": "2025-05-25T23:29:01.283347",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_b206de84",
+          "content": "",
+          "timestamp": "2025-05-25T23:30:07.405846",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_18ab224d",
+          "content": "",
+          "timestamp": "2025-05-25T23:30:09.037785",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_ba91bc3a",
+          "content": "Hello?",
+          "timestamp": "2025-05-26T08:06:26.632918",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_f4ad3532",
+          "content": "Test",
+          "timestamp": "2025-05-26T08:06:31.633516",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_dc855ec7",
+          "content": "LOL",
+          "timestamp": "2025-05-26T08:06:34.681227",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_70e4e427",
+          "content": "s",
+          "timestamp": "2025-05-26T08:34:35.884394",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_46d992e5",
+          "content": "WILL THIS WORK???",
+          "timestamp": "2025-05-26T08:45:03.669063",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_a11615f6",
+          "content": "IT WORKS!!!",
+          "timestamp": "2025-05-26T08:45:23.234055",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_c097351c",
+          "content": "This is a verylong text to test if message wraping works the right way, please work!",
+          "timestamp": "2025-05-26T08:45:57.160860",
+          "is_incoming": false,
+          "status": "unread"
+        },
+        {
+          "id": "msg_c1a630f5",
+          "content": "ok",
+          "timestamp": "2025-05-26T08:47:24.469289",
+          "is_incoming": false,
+          "status": "unread"
+        }
+      ]
+    },
+    "+17817082870": {
+      "contact_name": "+17817082870",
+      "last_message_time": "2025-05-24T22:14:11.035276",
+      "unread_count": 1,
+      "messages": [
+        {
+          "id": "msg_045d4b15",
+          "content": "Another test",
+          "timestamp": "2025-05-24T22:14:11.035499",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    },
+    "+15062608664": {
+      "contact_name": "+15062608664",
+      "last_message_time": "2025-05-24T22:31:43.200784",
+      "unread_count": 2,
+      "messages": [
+        {
+          "id": "msg_75109150",
+          "content": "Hello, this is to inform you about your cars extended warranty options",
+          "timestamp": "2025-05-24T22:31:13.786816",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_03e2f186",
+          "content": "Press 1 to hear them, press 2 to become a lid",
+          "timestamp": "2025-05-24T22:31:43.200985",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    },
+    "+19207706298": {
+      "contact_name": "+19207706298",
+      "last_message_time": "2025-05-25T21:30:37.478098",
+      "unread_count": 4,
+      "messages": [
+        {
+          "id": "msg_1595b89e",
+          "content": "KE9CVT",
+          "timestamp": "2025-05-24T22:32:43.371196",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_d093f992",
+          "content": "this is a TEST message",
+          "timestamp": "2025-05-24T22:34:25.776276",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_5c1f842c",
+          "content": "I have been on the pooper for a solid like. 16 minutes. Can you send TP and some Ex-Lax up to the third floor? Thanks",
+          "timestamp": "2025-05-24T22:39:34.262817",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_c57572b7",
+          "content": "I have been on the pooper for a solid like. 16 minutes. Can you send TP and some Ex-Lax up to the third floor? Thanks",
+          "timestamp": "2025-05-25T21:30:37.478310",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    },
+    "+15303636175": {
+      "contact_name": "+15303636175",
+      "last_message_time": "2025-05-24T22:35:33.621340",
+      "unread_count": 1,
+      "messages": [
+        {
+          "id": "msg_98fb44ef",
+          "content": "hi helo helo",
+          "timestamp": "2025-05-24T22:35:33.621558",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    },
+    "+12294493312": {
+      "contact_name": "+12294493312",
+      "last_message_time": "2025-05-25T21:30:32.190539",
+      "unread_count": 2,
+      "messages": [
+        {
+          "id": "msg_5df26ccc",
+          "content": "Plz enter me into the sweepstakes!",
+          "timestamp": "2025-05-24T22:36:13.297914",
+          "is_incoming": true,
+          "status": "unread"
+        },
+        {
+          "id": "msg_5845fdaa",
+          "content": "Mike check 1-2",
+          "timestamp": "2025-05-25T21:30:32.190705",
+          "is_incoming": true,
+          "status": "unread"
+        }
+      ]
+    }
+  }
+}
